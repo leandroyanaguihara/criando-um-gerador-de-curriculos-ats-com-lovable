@@ -307,7 +307,7 @@ https://screenshot-to-soul-3184.lovable.app/
 
 **Repositório GitHub:**
 
-https://github.com/leandroyanaguihara/Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable
+https://github.com/leandroyanaguihara/criando-um-gerador-de-curriculos-ats-com-lovable
 
 ---
 
