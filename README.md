@@ -1,0 +1,1 @@
+# Criando-um-Gerador-de-Curr-culos-ATS-Friendly-com-Lovable
